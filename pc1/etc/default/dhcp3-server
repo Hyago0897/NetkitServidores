@@ -1,0 +1,2 @@
+#/etc/default/dhcp3-server
+INTERFACE='eth1'
